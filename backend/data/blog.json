@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "title": "AI-Powered DevOps: The Future of Automation",
+    "description": "Exploring how AI is transforming DevOps practices and automation workflows.",
+    "excerpt": "Discover how artificial intelligence is revolutionizing DevOps practices, from automated testing to intelligent monitoring and predictive maintenance.",
+    "link": "https://www.linkedin.com/posts/saad-ahmad-devops_ai-powered-devops-automation-activity-123456789",
+    "date": "2024-01-15",
+    "category": "DevOps",
+    "tags": ["AI", "Automation", "DevOps", "Future Tech"]
+  },
+  {
+    "id": "2", 
+    "title": "Kubernetes Security Best Practices",
+    "description": "Essential security practices for securing your Kubernetes clusters in production.",
+    "excerpt": "Learn the critical security measures needed to protect your Kubernetes clusters in production environments.",
+    "link": "https://www.linkedin.com/posts/saad-ahmad-devops_kubernetes-security-best-practices-activity-123456789",
+    "date": "2024-02-20",
+    "category": "Security",
+    "tags": ["Kubernetes", "Security", "Best Practices", "Production"]
+  },
+  {
+    "id": "3",
+    "title": "Building Scalable CI/CD Pipelines",
+    "description": "How to design and implement robust CI/CD pipelines for modern applications.",
+    "excerpt": "A comprehensive guide to building scalable and reliable CI/CD pipelines that can handle modern application complexity.",
+    "link": "https://www.linkedin.com/posts/saad-ahmad-devops_ci-cd-pipelines-automation-activity-123456789",
+    "date": "2024-03-10",
+    "category": "CI/CD",
+    "tags": ["CI/CD", "Automation", "Pipelines", "Scalability"]
+  },
+  {
+    "id": "4",
+    "title": "Cloud-Native Architecture Patterns",
+    "description": "Essential patterns for building scalable cloud-native applications.",
+    "excerpt": "Explore the fundamental architectural patterns that make cloud-native applications scalable, resilient, and maintainable.",
+    "link": "https://www.linkedin.com/posts/saad-ahmad-devops_cloud-native-architecture-patterns-activity-123456789",
+    "date": "2024-04-05",
+    "category": "Architecture",
+    "tags": ["Cloud-Native", "Architecture", "Scalability", "Microservices"]
+  },
+  {
+    "id": "5",
+    "title": "Infrastructure as Code with Terraform",
+    "description": "Best practices for managing infrastructure using Terraform and modern IaC principles.",
+    "excerpt": "Learn how to effectively manage your infrastructure as code using Terraform and industry best practices.",
+    "link": "https://www.linkedin.com/posts/saad-ahmad-devops_terraform-iac-infrastructure-activity-123456789",
+    "date": "2024-05-12",
+    "category": "Infrastructure",
+    "tags": ["Terraform", "IaC", "Infrastructure", "Automation"]
+  }
+]
+

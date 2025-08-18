@@ -1,0 +1,29 @@
+{
+  "title": "Cloud Networking & Migration Project",
+  "description": "Designed and implemented comprehensive cloud networking infrastructure with VPC, NAT, API Gateway, and Route 53. Successfully migrated S3 data to Glacier with load balancers and Lambda triggers for automated workflows.",
+  "techStack": ["AWS VPC", "NAT Gateway", "API Gateway", "Route 53", "S3", "Glacier", "Load Balancers", "Lambda"],
+  "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=60",
+  "github": "https://github.com/Saad13270/cloud-networking-migration",
+  "liveDemo": "https://cloud-networking-demo.yourdomain.com",
+  "date": "2024-04-15",
+  "category": "Cloud Infrastructure",
+  "featured": false,
+  "highlights": [
+    "VPC design with public and private subnets",
+    "NAT Gateway for private instance internet access",
+    "API Gateway for RESTful service management",
+    "Route 53 for DNS management and health checks",
+    "S3 to Glacier migration with lifecycle policies"
+  ],
+  "challenges": [
+    "Designing secure network architecture",
+    "Ensuring zero-downtime during migration",
+    "Optimizing costs while maintaining performance"
+  ],
+  "solutions": [
+    "Multi-AZ architecture for high availability",
+    "Automated migration scripts with rollback capability",
+    "Cost optimization through intelligent resource management"
+  ]
+}
+

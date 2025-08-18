@@ -1,0 +1,28 @@
+{
+  "title": "Automated CI/CD Pipeline for Django Web App",
+  "description": "Built a complete CI/CD pipeline for Django web applications using AWS, Docker, Jenkins, and Kubernetes. Features automated testing, deployment, and monitoring with comprehensive infrastructure orchestration.",
+  "techStack": ["AWS", "Docker", "Jenkins", "Kubernetes", "Django", "Ansible", "Docker Compose"],
+  "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=60",
+  "github": "https://github.com/Saad13270/django-cicd-pipeline",
+  "liveDemo": "https://django-app-demo.yourdomain.com",
+  "date": "2024-02-20",
+  "category": "CI/CD",
+  "featured": true,
+  "highlights": [
+    "GitHub integration for source control",
+    "Docker Compose for local development",
+    "Ansible for configuration management",
+    "AWS infrastructure automation",
+    "Kubernetes deployment orchestration"
+  ],
+  "challenges": [
+    "Managing complex deployment workflows",
+    "Ensuring database migrations",
+    "Handling environment-specific configurations"
+  ],
+  "solutions": [
+    "Multi-stage Docker builds",
+    "Ansible playbooks for automation",
+    "Environment-specific Helm charts"
+  ]
+}

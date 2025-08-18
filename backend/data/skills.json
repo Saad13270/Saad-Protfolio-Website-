@@ -1,0 +1,42 @@
+{
+  "Cloud & Infrastructure": [
+    { "name": "AWS", "proficiency": 90 },
+    { "name": "Azure", "proficiency": 85 },
+    { "name": "Kubernetes", "proficiency": 88 },
+    { "name": "Docker", "proficiency": 92 },
+    { "name": "Terraform", "proficiency": 85 },
+    { "name": "Ansible", "proficiency": 80 },
+    { "name": "Linux (RHEL, Ubuntu, CentOS)", "proficiency": 90 },
+    { "name": "Windows", "proficiency": 75 }
+  ],
+  "CI/CD & Automation": [
+    { "name": "Jenkins", "proficiency": 88 },
+    { "name": "GitHub", "proficiency": 90 },
+    { "name": "GitLab", "proficiency": 85 },
+    { "name": "YAML", "proficiency": 92 },
+    { "name": "Bash Scripting", "proficiency": 88 },
+    { "name": "Python Automation", "proficiency": 85 },
+    { "name": "Helm Charts", "proficiency": 80 },
+    { "name": "SDLC", "proficiency": 85 }
+  ],
+  "Programming & Data": [
+    { "name": "Python", "proficiency": 85 },
+    { "name": "NumPy", "proficiency": 80 },
+    { "name": "Pandas", "proficiency": 82 },
+    { "name": "Seaborn", "proficiency": 75 },
+    { "name": "Matplotlib", "proficiency": 78 },
+    { "name": "Scikit-learn", "proficiency": 80 },
+    { "name": "Flask", "proficiency": 85 },
+    { "name": "NLP", "proficiency": 70 }
+  ],
+  "Monitoring & Analytics": [
+    { "name": "Kibana", "proficiency": 80 },
+    { "name": "Prometheus", "proficiency": 85 },
+    { "name": "Grafana", "proficiency": 82 },
+    { "name": "ELK Stack", "proficiency": 78 },
+    { "name": "Jira", "proficiency": 85 },
+    { "name": "Networking", "proficiency": 80 },
+    { "name": "RedHat", "proficiency": 85 },
+    { "name": "Cost Optimization", "proficiency": 75 }
+  ]
+}

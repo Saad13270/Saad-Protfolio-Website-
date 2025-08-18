@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "title": "Junior DevOps Engineer",
+    "company": "Xpert Solutions (USA-based)",
+    "period": "Feb 2025 - May 2025",
+    "duration": "4 months",
+    "location": "Remote",
+    "description": "Remote DevOps engineer focused on cloud infrastructure automation and CI/CD pipeline optimization.",
+    "technologies": ["AWS", "Kubernetes", "Jenkins", "Terraform", "Docker", "Python"],
+    "achievements": [
+      "Implemented automated CI/CD pipelines reducing deployment time by 60%",
+      "Managed Kubernetes clusters with 99.9% uptime",
+      "Automated infrastructure provisioning with Terraform",
+      "Set up monitoring and alerting with Prometheus/Grafana",
+      "Optimized cloud costs by 30% through resource management"
+    ],
+    "category": "Full-time",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "DevOps Engineer",
+    "company": "Freelance - Upwork",
+    "period": "Jan 2024 - Present",
+    "duration": "1+ years",
+    "location": "Remote",
+    "description": "Freelance DevOps engineer providing cloud automation, CI/CD pipeline development, and infrastructure management services.",
+    "technologies": ["AWS", "Azure", "Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible", "Python"],
+    "achievements": [
+      "Built CI/CD pipelines for multiple client projects",
+      "Managed Kubernetes clusters with Lens and KubeSphere",
+      "Implemented infrastructure as code with Terraform and Ansible",
+      "Set up comprehensive monitoring with Prometheus/Grafana/ELK stack",
+      "Achieved 100% client satisfaction across 15+ projects"
+    ],
+    "category": "Freelance",
+    "featured": true
+  }
+]
+

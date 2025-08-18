@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "type": "Training & Certification",
+    "name": "EduQual UK, Level 6 Qualification in AIOps",
+    "institution": "EduQual UK",
+    "period": "2024 - 2025",
+    "duration": "1 year",
+    "description": "360 credit hours focused on AI-powered operations and automation.",
+    "achievements": [
+      "Comprehensive AIOps training",
+      "Advanced automation techniques", 
+      "AI integration in DevOps practices"
+    ],
+    "category": "Professional Certification",
+    "featured": true,
+    "credits": "360 credit hours"
+  },
+  {
+    "id": "2",
+    "type": "Training",
+    "name": "Higher Secondary",
+    "institution": "Peshawar Model Degree College, Peshawar",
+    "period": "2020 - 2022",
+    "duration": "2 years",
+    "description": "Strong foundation in mathematics and computer science.",
+    "achievements": [
+      "15 Lakh scholarship achiever",
+      "Academic excellence award",
+      "Computer Science specialization"
+    ],
+    "category": "Academic",
+    "featured": false
+  },
+  {
+    "id": "3",
+    "type": "Training",
+    "name": "Secondary School",
+    "institution": "Govt Centennial Model High School, Takht Bhai",
+    "period": "2018 - 2020",
+    "duration": "2 years",
+    "description": "Foundation in science and technology.",
+    "achievements": [
+      "Outstanding academic performance",
+      "Science fair winner",
+      "Leadership in student council"
+    ],
+    "category": "Academic",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "type": "Certification",
+    "name": "AWS Certified Solutions Architect",
+    "institution": "Amazon Web Services",
+    "period": "2024",
+    "duration": "N/A",
+    "description": "Professional certification for AWS cloud architecture and design.",
+    "achievements": [
+      "Cloud architecture expertise",
+      "AWS best practices",
+      "Solution design skills"
+    ],
+    "category": "Professional Certification",
+    "featured": true
+  },
+  {
+    "id": "5",
+    "type": "Certification", 
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "institution": "Cloud Native Computing Foundation",
+    "period": "2024",
+    "duration": "N/A",
+    "description": "Professional certification for Kubernetes cluster administration.",
+    "achievements": [
+      "Kubernetes expertise",
+      "Cluster management skills",
+      "Troubleshooting abilities"
+    ],
+    "category": "Professional Certification",
+    "featured": true
+  }
+]
+

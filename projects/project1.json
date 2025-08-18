@@ -1,0 +1,28 @@
+{
+  "title": "CI/CD Pipeline for Java Application on Kubernetes",
+  "description": "Implemented a comprehensive CI/CD pipeline for Java applications with automated testing, security scanning, and Kubernetes deployment. Features Jenkins integration with SonarQube for code quality analysis and Helm charts for deployment orchestration.",
+  "techStack": ["Jenkins", "SonarQube", "Docker", "Kubernetes", "Helm", "Nexus", "Java"],
+  "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1200&q=60",
+  "github": "https://github.com/Saad13270/java-cicd-pipeline",
+  "liveDemo": "https://java-app-demo.yourdomain.com",
+  "date": "2024-01-15",
+  "category": "CI/CD",
+  "featured": true,
+  "highlights": [
+    "Jenkins + SonarQube for static analysis",
+    "Dockerized app deployment to private registry",
+    "Helm charts for Kubernetes orchestration",
+    "Nexus repository integration",
+    "Automated deployment via Jenkins"
+  ],
+  "challenges": [
+    "Integrating multiple tools in pipeline",
+    "Managing Kubernetes deployments",
+    "Ensuring code quality standards"
+  ],
+  "solutions": [
+    "Custom Jenkins pipeline scripts",
+    "Helm charts for deployment management",
+    "Automated quality gates"
+  ]
+}
